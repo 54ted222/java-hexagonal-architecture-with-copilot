@@ -104,13 +104,20 @@
       - 詳細描述所做的決策內容與範圍
       - 必填欄位
 
-   10. 備註 (Notes):
+   10. 範例 (Example):
+
+       - 選填欄位
+       - 提供一個決策內容描述的範例，供參考
+
+   11. 擴充標題 (Optional Extended Sections):
+
+       - 可根據需要添加其他標題，如「影響範圍 (Impact)」、「實施計劃 (Implementation Plan)」、「回顧與評估 (Review and Evaluation)」等
+       - 選填欄位
+
+   12. 備註 (Notes):
 
        - 補充說明或未來考量事項、參考資料等
        - 選填欄位
-
-   11. 擴充標題 (Optional Extended Sections):
-       - 可根據需要添加其他標題，如「影響範圍 (Impact)」、「實施計劃 (Implementation Plan)」、「回顧與評估 (Review and Evaluation)」等
 
 4. 文件排版格式:
 
@@ -125,7 +132,7 @@
 - 決策日期 (Decision Date): {決策日期}
 - 決策者 (Deciders): {決策者}
 - 相關決策 (Related Decisions):
-  1. [決策標題](決策文件路徑)
+  1. {ARD 文件引用}: {補充說明}
 - 背景 (Context):
   1. {背景描述}
 
@@ -148,7 +155,15 @@
 
 {決策內容描述}
 
+## 範例 (Example):
+
+{決策內容範例內容描述}
+
 ## {擴充標題}
+
+{備註內容描述}
+
+## 備註 (Notes):
 
 {備註內容描述}
 ```
