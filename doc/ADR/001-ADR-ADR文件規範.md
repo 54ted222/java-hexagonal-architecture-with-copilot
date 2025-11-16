@@ -5,8 +5,8 @@
 ## 基本資訊 (Basic Information)
 
 - 狀態 (Status): 已採納 (Accepted)
-- 決策日期 (Decision Date): 2025/11/02
-- 決策者 (Deciders): 架構師、開發團隊
+- 決策日期 (Decision Date):
+- 決策者 (Deciders):
 - 相關決策 (Related Decisions):
   1. 002-ADR
 - 背景 (Context):

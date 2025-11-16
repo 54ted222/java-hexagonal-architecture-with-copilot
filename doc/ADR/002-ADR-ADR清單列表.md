@@ -35,11 +35,10 @@
 
      - 架構決策記錄: Architecture Decision Record (ADR) - ARD 文件相關決策
      - 架構: Architecture (Arch) - 通用系統架構相關決策
-     - 六邊形架構: Hexagonal Architecture (Hex) - 通用六邊形架構相關決策
-     - 三層式架構: Three-Tier Architecture (3TA) - 通用三層式架構相關決策
 
    - 以下是建議，如有使用再加入
-
+     - 六邊形架構: Hexagonal Architecture (Hex) - 通用六邊形架構相關決策
+     - 三層式架構: Three-Tier Architecture (3TA) - 通用三層式架構相關決策
      - 應用程式介面: Application Programming Interface (API) - 通用 API 相關決策
      - 資料庫: Database (DB) - 通用資料庫相關決策
      - 安全性: Security (Sec) - 通用安全性相關決策
@@ -60,6 +59,7 @@
      - 國際化: Internationalization (I18N) - 通用國際化相關決策
      - 本地化: Localization (L10N) - 通用本地化相關決策
      - 備份與還原: Backup and Recovery (BR) - 通用備份與還原相關決策
+     - 風格指南: Style Guide (SG) - 通用程式碼風格指南相關決策
 
 2. 文件使用到的縮寫列表
 

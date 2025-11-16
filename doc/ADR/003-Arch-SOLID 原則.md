@@ -5,9 +5,9 @@
 ## 基本資訊 (Basic Information)
 
 - 規範性質 (Nature): 建議性 (Recommendation)
-- 狀態 (Status): 已採納 (Accepted)
-- 決策日期 (Decision Date): 2025/11/09
-- 決策者 (Deciders): 架構師、開發團隊
+- 狀態 (Status):
+- 決策日期 (Decision Date):
+- 決策者 (Deciders):
 - 相關決策 (Related Decisions):
   1. [001-ADR](./001-ADR-ADR文件規範.md): ADR 文件規範
 - 背景 (Context):
