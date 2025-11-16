@@ -74,6 +74,8 @@
     String encode(String password);
   }
 
+  PasswordEncoderFactory.getEncoder("type").encode(password);
+
   class BCryptPasswordEncoder implements PasswordEncoder {
     public String encode(String password) {
       return encodeBCrypt(password);
@@ -128,7 +130,9 @@
     class RegisteredUserService implements UserService {
         public void updateEmail(User user, String newEmail) {
             user.setEmail(newEmail);
-            sendVerificationEmail(user);
+        }
+        public void sendVerificationEmail(User user) {
+            // 發送驗證郵件
         }
     }
 
